@@ -1,0 +1,501 @@
+﻿descricao;categoria
+Por favor, olhem isso: o piso ta solto e balança quando alguém pisa.;CALCADA_DANIFICADA
+Um caminhão descarregando material bloqueou o passeio;PASSAGEM_OBSTRUIDA
+O cruzamento não oferece condições seguras para atravessar;TRAVESSIA_INADEQUADA
+Queria informar que o semáforo não indica o tempo disponível ao pedestre na rua da praça.;TRAVESSIA_INADEQUADA
+A calçada está esburacada faz tempo. Precisa de atenção porque está complicado.;CALCADA_DANIFICADA
+O cruzamento não tem uma travessia acessível no caminho até a estação.;TRAVESSIA_INADEQUADA
+Queria informar que a rampa tem uma inclinação perigosa para descer no caminho até a estação.;RAMPA_INADEQUADA
+O acesso rebaixado não chega ao nível da rua;RAMPA_INADEQUADA
+Queria informar que a rampa existe, mas é inclinada demais pra subir ao lado do ponto de ônibus.;RAMPA_INADEQUADA
+Por favor, olhem isso: a passagem de pedestres está mal sinalizada.;TRAVESSIA_INADEQUADA
+A rampa é muito estreita para uma cadeira de rodas na rua mais movimentada do bairro.;RAMPA_INADEQUADA
+Tem uma árvore caída atravessada na passagem;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: a travessia não tem proteção adequada.;TRAVESSIA_INADEQUADA
+Não existe sinal para pedestres nessa travessia perto do terminal.;TRAVESSIA_INADEQUADA
+A calçada está em péssimo estado de conservação no caminho até a estação.;CALCADA_DANIFICADA
+Não há acesso rebaixado na esquina. Isso já está assim faz tempo.;RAMPA_AUSENTE
+O concreto da calçada está esfarelando;CALCADA_DANIFICADA
+Uma moto está parada na calçada e fecha o caminho na rua mais movimentada do bairro.;PASSAGEM_OBSTRUIDA
+Uma caçamba impede a circulação na calçada. Quem tem mobilidade reduzida sofre para passar.;PASSAGEM_OBSTRUIDA
+A rampa está desnivelada e causa trancos na cadeira;RAMPA_INADEQUADA
+Queria informar que a faixa está muito desgastada em frente aos prédios.;TRAVESSIA_INADEQUADA
+Tem calçada dos dois lados, mas não tem rampa. É um problema pra quem passa a pé.;RAMPA_AUSENTE
+Queria informar que tem calçada dos dois lados, mas não tem rampa perto do terminal.;RAMPA_AUSENTE
+A rampa tem uma inclinação perigosa para descer no caminho até a estação.;RAMPA_INADEQUADA
+Um tapume de obra bloqueia o acesso pela calçada perto da entrada do mercado.;PASSAGEM_OBSTRUIDA
+Queria informar que uma obra deixou materiais espalhados na calçada perto da escola do bairro.;PASSAGEM_OBSTRUIDA
+Tem um degrau alto porque não fizeram rampa em frente aos prédios.;RAMPA_AUSENTE
+A faixa de pedestres está incompleta no cruzamento;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: a faixa está muito desgastada.;TRAVESSIA_INADEQUADA
+O revestimento se soltou em vários pontos ao lado do ponto de ônibus.;CALCADA_DANIFICADA
+A travessia não tem proteção adequada ao lado do ponto de ônibus.;TRAVESSIA_INADEQUADA
+O piso tá irregular e prende a roda da cadeira;CALCADA_DANIFICADA
+Não há sinalização adequada para atravessar a avenida perto da entrada do mercado.;TRAVESSIA_INADEQUADA
+As lixeiras foram colocadas no meio do caminho. Quem tem mobilidade reduzida sofre pra passar.;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: a sinalização para atravessar está apagada.;TRAVESSIA_INADEQUADA
+O caminho está cheio de rachaduras perto da escola do bairro.;CALCADA_DANIFICADA
+A rampa é íngreme e não tem espaço para manobrar;RAMPA_INADEQUADA
+Tem um poste no meio da passagem e não sobra espaço;PASSAGEM_OBSTRUIDA
+O tempo do sinal é curto demais para atravessar na esquina da avenida principal.;TRAVESSIA_INADEQUADA
+Tem um desnível por causa do piso quebrado;CALCADA_DANIFICADA
+Queria informar que a rampa tem uma lateral muito alta em frente ao posto de saúde.;RAMPA_INADEQUADA
+Não fizeram rebaixo na guia pra atravessar perto da entrada do mercado.;RAMPA_AUSENTE
+A rampa existe, mas é inclinada demais pra subir;RAMPA_INADEQUADA
+Por favor, olhem isso: a guia não foi rebaixada e impede a passagem.;RAMPA_AUSENTE
+Por favor, olhem isso: a rampa é estreita e a cadeira não passa direito.;RAMPA_INADEQUADA
+As lixeiras foram colocadas no meio do caminho ao lado do ponto de ônibus.;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: tem um buraco fundo no meio da calçada.;CALCADA_DANIFICADA
+Queria informar que a calçada ta quebrada e cheia de buracos ao lado do ponto de ônibus.;CALCADA_DANIFICADA
+A calçada está quebrada e cheia de buracos. Está desse jeito todos os dias.;CALCADA_DANIFICADA
+Um carro estacionado na calçada bloqueia a passagem perto da escola do bairro.;PASSAGEM_OBSTRUIDA
+Queria informar que a rampa de acesso está quebrada e precisa de reparo perto da escola do bairro.;RAMPA_INADEQUADA
+Por favor, olhem isso: o local de travessia não tem marcação no asfalto.;TRAVESSIA_INADEQUADA
+A rampa é estreita e a cadeira não passa direito. Quem tem mobilidade reduzida sofre para passar.;RAMPA_INADEQUADA
+Por favor, olhem isso: tem partes do passeio afundadas.;CALCADA_DANIFICADA
+Por favor, olhem isso: a faixa ta longe do acesso da calçada.;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: a rampa de acesso está quebrada e precisa de reparo.;RAMPA_INADEQUADA
+Queria informar que o acesso rebaixado não chega ao nível da rua ao lado do ponto de ônibus.;RAMPA_INADEQUADA
+Queria informar que um trailer ocupa o espaço dos pedestres em frente aos prédios.;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: a rampa é muito estreita pra uma cadeira de rodas.;RAMPA_INADEQUADA
+O piso externo está rachado e com partes faltando. Ninguém consegue passar direito por ali.;CALCADA_DANIFICADA
+O semáforo de pedestres não tem sinal sonoro ao lado do ponto de ônibus.;TRAVESSIA_INADEQUADA
+A esquina não tem rebaixamento para cadeira de rodas. Precisa de atenção porque está complicado.;RAMPA_AUSENTE
+A esquina não oferece acesso por rampa;RAMPA_AUSENTE
+Um trailer ocupa o espaço dos pedestres. Ninguém consegue passar direito por ali.;PASSAGEM_OBSTRUIDA
+Queria informar que o cruzamento não tem uma travessia acessível no caminho até a estação.;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: o caminho está cheio de rachaduras.;CALCADA_DANIFICADA
+A rampa termina num degrau e não fica nivelada perto da entrada do mercado.;RAMPA_INADEQUADA
+O cruzamento não oferece condições seguras para atravessar no caminho até a estação.;TRAVESSIA_INADEQUADA
+A calçada está desnivelada e é difícil andar nela;CALCADA_DANIFICADA
+A travessia não tem sinalização visível. É um problema pra quem passa a pé.;TRAVESSIA_INADEQUADA
+Queria informar que as lixeiras foram colocadas no meio do caminho na rua mais movimentada do bairro.;PASSAGEM_OBSTRUIDA
+Queria informar que a travessia não tem sinalização visível perto do terminal.;TRAVESSIA_INADEQUADA
+O rebaixamento da guia ficou muito íngreme;RAMPA_INADEQUADA
+Tem um poste no meio da passagem e não sobra espaço. Está difícil circular nesse trecho.;PASSAGEM_OBSTRUIDA
+Tem lajotas quebradas na passagem. Por favor, verifiquem essa situação.;CALCADA_DANIFICADA
+A faixa de pedestres está apagada e quase não aparece. Está desse jeito todos os dias.;TRAVESSIA_INADEQUADA
+A entrada do prédio não possui rampa de acesso na rua mais movimentada do bairro.;RAMPA_AUSENTE
+O rebaixamento da guia ficou muito íngreme em frente ao posto de saúde.;RAMPA_INADEQUADA
+Falta uma rampa de acesso na entrada da rua. O problema continua sem solução.;RAMPA_AUSENTE
+Não tem faixa de pedestres onde as pessoas atravessam;TRAVESSIA_INADEQUADA
+A rampa foi feita com inclinação excessiva. A situação atrapalha bastante quem passa.;RAMPA_INADEQUADA
+A faixa termina num canteiro e não dá continuidade perto da entrada do mercado.;TRAVESSIA_INADEQUADA
+Queria informar que materiais de construção estão fechando a passagem perto do terminal.;PASSAGEM_OBSTRUIDA
+Tem entulho ocupando todo o caminho. Precisa de atenção porque está complicado.;PASSAGEM_OBSTRUIDA
+Queria informar que a esquina não oferece acesso por rampa perto do terminal.;RAMPA_AUSENTE
+O semáforo não indica o tempo disponível ao pedestre em frente ao posto de saúde.;TRAVESSIA_INADEQUADA
+A entrada tem rampa, mas ela termina em degrau. Por favor, verifiquem essa situação.;RAMPA_INADEQUADA
+Não fizeram rebaixo na guia para atravessar;RAMPA_AUSENTE
+A calçada ta em péssimo estado de conservação. A situação atrapalha bastante quem passa.;CALCADA_DANIFICADA
+Tem um degrau alto porque não fizeram rampa. Por favor, verifiquem essa situação.;RAMPA_AUSENTE
+Materiais de construção estão fechando a passagem na rua da praça.;PASSAGEM_OBSTRUIDA
+Materiais de construção estão fechando a passagem. É um problema para quem passa a pé.;PASSAGEM_OBSTRUIDA
+Queria informar que a calçada ficou irregular depois de uma obra na esquina da avenida principal.;CALCADA_DANIFICADA
+Queria informar que uma caçamba impede a circulação na calçada na rua mais movimentada do bairro.;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: falta uma rampa de acesso na entrada da rua.;RAMPA_AUSENTE
+A rampa é muito estreita para uma cadeira de rodas;RAMPA_INADEQUADA
+Não há sinalização adequada para atravessar a avenida. Está difícil circular nesse trecho.;TRAVESSIA_INADEQUADA
+A calçada está desnivelada e é difícil andar nela na esquina da avenida principal.;CALCADA_DANIFICADA
+Tem um poste no meio da passagem e não sobra espaço perto da entrada do mercado.;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: a calçada danificada oferece risco de tropeço.;CALCADA_DANIFICADA
+Por favor, olhem isso: a calçada está desnivelada e é difícil andar nela.;CALCADA_DANIFICADA
+Um carro estacionado na calçada bloqueia a passagem. Está desse jeito todos os dias.;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: a inclinação da rampa dificulta o acesso.;RAMPA_INADEQUADA
+Queria informar que falta rebaixamento perto do ponto de ônibus perto da entrada do mercado.;RAMPA_AUSENTE
+A calçada ficou irregular depois de uma obra. Isso já está assim faz tempo.;CALCADA_DANIFICADA
+Tem uma banca bloqueando a faixa livre. Está desse jeito todos os dias.;PASSAGEM_OBSTRUIDA
+A entrada da calçada está bloqueada por uma estrutura no caminho até a estação.;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: a calçada cedeu perto da entrada do prédio.;CALCADA_DANIFICADA
+Não tem faixa de pedestres onde as pessoas atravessam. Precisa de atenção porque está complicado.;TRAVESSIA_INADEQUADA
+Queria informar que a calçada danificada oferece risco de tropeço perto da entrada do mercado.;CALCADA_DANIFICADA
+O semáforo não indica o tempo disponível ao pedestre;TRAVESSIA_INADEQUADA
+A inclinação da rampa dificulta o acesso na esquina da avenida principal.;RAMPA_INADEQUADA
+A calçada termina num meio-fio alto e não há rampa ao lado do ponto de ônibus.;RAMPA_AUSENTE
+Por favor, olhem isso: tem calçada dos dois lados, mas não tem rampa.;RAMPA_AUSENTE
+Por favor, olhem isso: tem um veículo na frente da rampa e ninguém passa.;PASSAGEM_OBSTRUIDA
+O semáforo de pedestres não tem sinal sonoro;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: o piso tá irregular e prende a roda da cadeira.;CALCADA_DANIFICADA
+Não há sinalização adequada pra atravessar a avenida;TRAVESSIA_INADEQUADA
+Tem lajotas quebradas na passagem;CALCADA_DANIFICADA
+A esquina não oferece acesso por rampa na rua da praça.;RAMPA_AUSENTE
+Falta rebaixamento perto do ponto de ônibus;RAMPA_AUSENTE
+Por favor, olhem isso: as pedras do passeio estão levantadas.;CALCADA_DANIFICADA
+O piso tá irregular e prende a roda da cadeira perto do terminal.;CALCADA_DANIFICADA
+Queria informar que a pintura da faixa está desgastada e os motoristas não veem perto da escola do bairro.;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: o acesso rebaixado não chega ao nível da rua.;RAMPA_INADEQUADA
+A calçada termina num meio-fio alto e não há rampa. Quem tem mobilidade reduzida sofre para passar.;RAMPA_AUSENTE
+A calçada ficou irregular depois de uma obra;CALCADA_DANIFICADA
+Queria informar que o rebaixamento da guia ficou muito íngreme na rua da praça.;RAMPA_INADEQUADA
+Não existe passagem acessível entre rua e passeio. O problema continua sem solução.;RAMPA_AUSENTE
+Queria informar que o rebaixo é tão alto que ainda sobra um degrau na esquina da avenida principal.;RAMPA_INADEQUADA
+Objetos deixados na calçada impedem a circulação;PASSAGEM_OBSTRUIDA
+A calçada cedeu perto da entrada do prédio;CALCADA_DANIFICADA
+Queria informar que o piso tá irregular e prende a roda da cadeira na esquina da avenida principal.;CALCADA_DANIFICADA
+Por favor, olhem isso: não há acesso rebaixado na esquina.;RAMPA_AUSENTE
+O tempo do sinal é curto demais para atravessar. O problema continua sem solução.;TRAVESSIA_INADEQUADA
+Não existe passagem acessível entre rua e passeio;RAMPA_AUSENTE
+Por favor, olhem isso: não há sinalização adequada para atravessar a avenida.;TRAVESSIA_INADEQUADA
+Queria informar que falta uma rampa de acesso na entrada da rua em frente ao posto de saúde.;RAMPA_AUSENTE
+Por favor, olhem isso: o acesso tem rampa estreita e piso irregular.;RAMPA_INADEQUADA
+Não há acesso rebaixado na esquina perto do terminal.;RAMPA_AUSENTE
+A rampa está desnivelada e causa trancos na cadeira. Isso já está assim faz tempo.;RAMPA_INADEQUADA
+Por favor, olhem isso: o semáforo de pedestres não tem sinal sonoro.;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: mesas e cadeiras ocupam a passagem dos pedestres.;PASSAGEM_OBSTRUIDA
+A guia não foi rebaixada e impede a passagem no caminho até a estação.;RAMPA_AUSENTE
+Por favor, olhem isso: o sinal fecha antes de dar tempo de terminar a travessia.;TRAVESSIA_INADEQUADA
+O piso externo está rachado e com partes faltando;CALCADA_DANIFICADA
+Por favor, olhem isso: a rampa é íngreme e não tem espaço pra manobrar.;RAMPA_INADEQUADA
+Por favor, olhem isso: a faixa de pedestres está incompleta no cruzamento.;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: a calçada ficou irregular depois de uma obra.;CALCADA_DANIFICADA
+Queria informar que tem entulho ocupando todo o caminho na rua da praça.;PASSAGEM_OBSTRUIDA
+Queria informar que tem rachaduras grandes no caminho de pedestres na rua mais movimentada do bairro.;CALCADA_DANIFICADA
+A rampa está mal construída e ficou torta;RAMPA_INADEQUADA
+Por favor, olhem isso: o rebaixamento da guia ficou muito íngreme.;RAMPA_INADEQUADA
+Por favor, olhem isso: falta rebaixamento perto do ponto de ônibus.;RAMPA_AUSENTE
+A rampa termina num degrau e não fica nivelada. Está difícil circular nesse trecho.;RAMPA_INADEQUADA
+O lixo acumulado impede as pessoas de passar;PASSAGEM_OBSTRUIDA
+Queria informar que a guia não foi rebaixada e impede a passagem no caminho até a estação.;RAMPA_AUSENTE
+Por favor, olhem isso: deixaram mercadorias espalhadas pelo passeio.;PASSAGEM_OBSTRUIDA
+A faixa de pedestres está apagada e quase não aparece perto da escola do bairro.;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: as lixeiras foram colocadas no meio do caminho.;PASSAGEM_OBSTRUIDA
+A faixa de pedestres está incompleta no cruzamento na esquina da avenida principal.;TRAVESSIA_INADEQUADA
+A rampa é íngreme e não tem espaço para manobrar. É um problema para quem passa a pé.;RAMPA_INADEQUADA
+Queria informar que a esquina não tem rebaixamento para cadeira de rodas na rua da praça.;RAMPA_AUSENTE
+Não existe rampa para subir na calçada nessa esquina perto da escola do bairro.;RAMPA_AUSENTE
+Queria informar que a faixa termina num canteiro e não dá continuidade perto da entrada do mercado.;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: a superfície da rampa é lisa e escorrega.;RAMPA_INADEQUADA
+Queria informar que a rampa é estreita e a cadeira não passa direito na rua mais movimentada do bairro.;RAMPA_INADEQUADA
+O semáforo não indica o tempo disponível ao pedestre. Precisa de atenção porque está complicado.;TRAVESSIA_INADEQUADA
+Queria informar que não há sinalização adequada pra atravessar a avenida perto da entrada do mercado.;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: a pessoa precisa enfrentar o meio-fio porque não existe rampa.;RAMPA_AUSENTE
+O concreto da calçada está esfarelando na rua da praça.;CALCADA_DANIFICADA
+Por favor, olhem isso: materiais de construção estão fechando a passagem.;PASSAGEM_OBSTRUIDA
+A calçada danificada oferece risco de tropeço;CALCADA_DANIFICADA
+A pessoa precisa enfrentar o meio-fio porque não existe rampa. Por favor, verifiquem essa situação.;RAMPA_AUSENTE
+O sinal fecha antes de dar tempo de terminar a travessia perto do terminal.;TRAVESSIA_INADEQUADA
+Queria informar que tem um veículo na frente da rampa e ninguém passa perto da escola do bairro.;PASSAGEM_OBSTRUIDA
+A calçada termina num meio-fio alto e não há rampa;RAMPA_AUSENTE
+Por favor, olhem isso: tem uma árvore caída atravessada na passagem.;PASSAGEM_OBSTRUIDA
+A pintura da faixa está desgastada e os motoristas não veem em frente aos prédios.;TRAVESSIA_INADEQUADA
+Queria informar que a faixa de pedestres ta apagada e quase não aparece ao lado do ponto de ônibus.;TRAVESSIA_INADEQUADA
+Um trailer ocupa o espaço dos pedestres;PASSAGEM_OBSTRUIDA
+Não existe rampa pra subir na calçada nessa esquina;RAMPA_AUSENTE
+Queria informar que a calçada está esburacada faz tempo na rua da praça.;CALCADA_DANIFICADA
+O concreto da calçada ta esfarelando. É um problema pra quem passa a pé.;CALCADA_DANIFICADA
+Queria informar que galhos caídos estão bloqueando o caminho perto do terminal.;PASSAGEM_OBSTRUIDA
+Queria informar que mesas e cadeiras ocupam a passagem dos pedestres na esquina da avenida principal.;PASSAGEM_OBSTRUIDA
+Uma obra deixou materiais espalhados na calçada. Por favor, verifiquem essa situação.;PASSAGEM_OBSTRUIDA
+A faixa termina num canteiro e não dá continuidade;TRAVESSIA_INADEQUADA
+Falta rebaixamento perto do ponto de ônibus. Está difícil circular nesse trecho.;RAMPA_AUSENTE
+A faixa está muito desgastada;TRAVESSIA_INADEQUADA
+A calçada ta esburacada faz tempo em frente ao posto de saúde.;CALCADA_DANIFICADA
+Não colocaram rampa nesse ponto em frente ao posto de saúde.;RAMPA_AUSENTE
+Queria informar que não existe sinal pra pedestres nessa travessia na esquina da avenida principal.;TRAVESSIA_INADEQUADA
+O revestimento se soltou em vários pontos. Quem tem mobilidade reduzida sofre pra passar.;CALCADA_DANIFICADA
+A pintura da faixa está desgastada e os motoristas não veem;TRAVESSIA_INADEQUADA
+A rampa é estreita e a cadeira não passa direito;RAMPA_INADEQUADA
+Por favor, olhem isso: galhos caídos estão bloqueando o caminho.;PASSAGEM_OBSTRUIDA
+Um tapume de obra bloqueia o acesso pela calçada. Está difícil circular nesse trecho.;PASSAGEM_OBSTRUIDA
+Não existe rampa para subir na calçada nessa esquina. Está desse jeito todos os dias.;RAMPA_AUSENTE
+O local de travessia não tem marcação no asfalto. É um problema para quem passa a pé.;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: um carro estacionado na calçada bloqueia a passagem.;PASSAGEM_OBSTRUIDA
+Queria informar que o revestimento se soltou em vários pontos na rua mais movimentada do bairro.;CALCADA_DANIFICADA
+Queria informar que o local de travessia não tem marcação no asfalto perto do terminal.;TRAVESSIA_INADEQUADA
+A travessia não tem sinalização visível na rua da praça.;TRAVESSIA_INADEQUADA
+Um caminhão descarregando material bloqueou o passeio. Precisa de atenção porque está complicado.;PASSAGEM_OBSTRUIDA
+O caminho está cheio de rachaduras. Está desse jeito todos os dias.;CALCADA_DANIFICADA
+Queria informar que tem lajotas quebradas na passagem perto da escola do bairro.;CALCADA_DANIFICADA
+Tem lajotas quebradas na passagem em frente aos prédios.;CALCADA_DANIFICADA
+Deixaram mercadorias espalhadas pelo passeio na esquina da avenida principal.;PASSAGEM_OBSTRUIDA
+Queria informar que o tempo do sinal é curto demais para atravessar em frente ao posto de saúde.;TRAVESSIA_INADEQUADA
+Queria informar que um carro estacionado na calçada bloqueia a passagem ao lado do ponto de ônibus.;PASSAGEM_OBSTRUIDA
+Tem rachaduras grandes no caminho de pedestres. Quem tem mobilidade reduzida sofre para passar.;CALCADA_DANIFICADA
+A pessoa precisa enfrentar o meio-fio porque não existe rampa;RAMPA_AUSENTE
+Queria informar que o sinal fecha antes de dar tempo de terminar a travessia na esquina da avenida principal.;TRAVESSIA_INADEQUADA
+O rebaixamento ficou desalinhado com a faixa;RAMPA_INADEQUADA
+Queria informar que a calçada termina num meio-fio alto e não há rampa na rua mais movimentada do bairro.;RAMPA_AUSENTE
+Por favor, olhem isso: a rampa existe, mas é inclinada demais para subir.;RAMPA_INADEQUADA
+A faixa de pedestres ta apagada e quase não aparece;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: a esquina não oferece acesso por rampa.;RAMPA_AUSENTE
+Por favor, olhem isso: a calçada termina num meio-fio alto e não há rampa.;RAMPA_AUSENTE
+Por favor, olhem isso: um tapume de obra bloqueia o acesso pela calçada.;PASSAGEM_OBSTRUIDA
+Queria informar que o chão está quebrando e soltando pedaços perto do terminal.;CALCADA_DANIFICADA
+Queria informar que uma moto está parada na calçada e fecha o caminho em frente aos prédios.;PASSAGEM_OBSTRUIDA
+A rampa foi feita com inclinação excessiva no caminho até a estação.;RAMPA_INADEQUADA
+A rampa é íngreme e não tem espaço para manobrar na rua da praça.;RAMPA_INADEQUADA
+A passagem de pedestres está mal sinalizada em frente aos prédios.;TRAVESSIA_INADEQUADA
+O cruzamento não tem uma travessia acessível. A situação atrapalha bastante quem passa.;TRAVESSIA_INADEQUADA
+A calçada está em péssimo estado de conservação;CALCADA_DANIFICADA
+Um caminhão descarregando material bloqueou o passeio em frente ao posto de saúde.;PASSAGEM_OBSTRUIDA
+Queria informar que a travessia não tem proteção adequada na rua mais movimentada do bairro.;TRAVESSIA_INADEQUADA
+A calçada não tem acesso para cadeira de rodas;RAMPA_AUSENTE
+A calçada é alta e não tem acesso nivelado;RAMPA_AUSENTE
+Por favor, olhem isso: o revestimento se soltou em vários pontos.;CALCADA_DANIFICADA
+A calçada está esburacada faz tempo;CALCADA_DANIFICADA
+O chão está quebrando e soltando pedaços na rua da praça.;CALCADA_DANIFICADA
+Por favor, olhem isso: a entrada tem rampa, mas ela termina em degrau.;RAMPA_INADEQUADA
+Queria informar que a pessoa precisa enfrentar o meio-fio porque não existe rampa perto da escola do bairro.;RAMPA_AUSENTE
+Queria informar que a superfície da rampa é lisa e escorrega na rua mais movimentada do bairro.;RAMPA_INADEQUADA
+A superfície da rampa é lisa e escorrega. Quem tem mobilidade reduzida sofre pra passar.;RAMPA_INADEQUADA
+Tem calçada dos dois lados, mas não tem rampa na rua da praça.;RAMPA_AUSENTE
+Materiais de construção estão fechando a passagem;PASSAGEM_OBSTRUIDA
+Tem um veículo na frente da rampa e ninguém passa em frente aos prédios.;PASSAGEM_OBSTRUIDA
+A entrada tem rampa, mas ela termina em degrau;RAMPA_INADEQUADA
+Por favor, olhem isso: não há rampa para entrar no estabelecimento.;RAMPA_AUSENTE
+A rampa tem uma lateral muito alta na esquina da avenida principal.;RAMPA_INADEQUADA
+Queria informar que a calçada é alta e não tem acesso nivelado na rua mais movimentada do bairro.;RAMPA_AUSENTE
+Por favor, olhem isso: a calçada é alta e não tem acesso nivelado.;RAMPA_AUSENTE
+Por favor, olhem isso: a entrada da calçada está bloqueada por uma estrutura.;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: objetos deixados na calçada impedem a circulação.;PASSAGEM_OBSTRUIDA
+Tem um buraco fundo no meio da calçada em frente aos prédios.;CALCADA_DANIFICADA
+O rebaixo é tão alto que ainda sobra um degrau;RAMPA_INADEQUADA
+A rampa tem uma inclinação perigosa para descer. A situação atrapalha bastante quem passa.;RAMPA_INADEQUADA
+Uma caçamba impede a circulação na calçada;PASSAGEM_OBSTRUIDA
+A calçada não tem acesso para cadeira de rodas no caminho até a estação.;RAMPA_AUSENTE
+O rebaixamento ficou desalinhado com a faixa. Está difícil circular nesse trecho.;RAMPA_INADEQUADA
+Por favor, olhem isso: não fizeram rebaixo na guia para atravessar.;RAMPA_AUSENTE
+A calçada é alta e não tem acesso nivelado ao lado do ponto de ônibus.;RAMPA_AUSENTE
+Queria informar que a rampa termina num degrau e não fica nivelada perto da entrada do mercado.;RAMPA_INADEQUADA
+Por favor, olhem isso: o semáforo não indica o tempo disponível ao pedestre.;TRAVESSIA_INADEQUADA
+A calçada danificada oferece risco de tropeço perto da entrada do mercado.;CALCADA_DANIFICADA
+Queria informar que a faixa de pedestres está incompleta no cruzamento em frente ao posto de saúde.;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: não tem faixa de pedestres onde as pessoas atravessam.;TRAVESSIA_INADEQUADA
+As pedras do passeio estão levantadas. Está difícil circular nesse trecho.;CALCADA_DANIFICADA
+O piso tá irregular e prende a roda da cadeira. Isso já está assim faz tempo.;CALCADA_DANIFICADA
+Queria informar que o concreto da calçada está esfarelando perto do terminal.;CALCADA_DANIFICADA
+Por favor, olhem isso: uma caçamba impede a circulação na calçada.;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: a calçada está quebrada e cheia de buracos.;CALCADA_DANIFICADA
+Galhos caídos estão bloqueando o caminho;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: uma moto ta parada na calçada e fecha o caminho.;PASSAGEM_OBSTRUIDA
+A passagem de pedestres está mal sinalizada. Por favor, verifiquem essa situação.;TRAVESSIA_INADEQUADA
+O meio-fio não tem rebaixo pra facilitar a travessia na rua mais movimentada do bairro.;RAMPA_AUSENTE
+Não há acesso rebaixado na esquina;RAMPA_AUSENTE
+Por favor, olhem isso: o tempo do sinal é curto demais para atravessar.;TRAVESSIA_INADEQUADA
+Queria informar que a rampa é muito estreita para uma cadeira de rodas em frente aos prédios.;RAMPA_INADEQUADA
+O piso da rampa é escorregadio quando chove na rua da praça.;RAMPA_INADEQUADA
+Por favor, olhem isso: o chão ta quebrando e soltando pedaços.;CALCADA_DANIFICADA
+Queria informar que tem uma banca bloqueando a faixa livre ao lado do ponto de ônibus.;PASSAGEM_OBSTRUIDA
+A rampa de acesso está quebrada e precisa de reparo;RAMPA_INADEQUADA
+A superfície da rampa é lisa e escorrega;RAMPA_INADEQUADA
+O piso da rampa é escorregadio quando chove. É um problema pra quem passa a pé.;RAMPA_INADEQUADA
+Por favor, olhem isso: o rebaixamento ficou desalinhado com a faixa.;RAMPA_INADEQUADA
+A travessia não tem sinalização visível;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: a calçada está em péssimo estado de conservação.;CALCADA_DANIFICADA
+A sinalização para atravessar está apagada perto da escola do bairro.;TRAVESSIA_INADEQUADA
+Queria informar que a calçada está desnivelada e é difícil andar nela em frente ao posto de saúde.;CALCADA_DANIFICADA
+O sinal fecha antes de dar tempo de terminar a travessia. Isso já está assim faz tempo.;TRAVESSIA_INADEQUADA
+Queria informar que um tapume de obra bloqueia o acesso pela calçada perto da entrada do mercado.;PASSAGEM_OBSTRUIDA
+Objetos deixados na calçada impedem a circulação. Isso já está assim faz tempo.;PASSAGEM_OBSTRUIDA
+A rampa termina num degrau e não fica nivelada;RAMPA_INADEQUADA
+Queria informar que na travessia falta uma rampa ligando a rua à calçada ao lado do ponto de ônibus.;RAMPA_AUSENTE
+A rampa existe, mas é inclinada demais para subir. Está desse jeito todos os dias.;RAMPA_INADEQUADA
+Por favor, olhem isso: a calçada está esburacada faz tempo.;CALCADA_DANIFICADA
+Galhos caídos estão bloqueando o caminho na rua da praça.;PASSAGEM_OBSTRUIDA
+Queria informar que o cruzamento não oferece condições seguras para atravessar no caminho até a estação.;TRAVESSIA_INADEQUADA
+Não há rampa para entrar no estabelecimento perto do terminal.;RAMPA_AUSENTE
+Não há rampa para entrar no estabelecimento;RAMPA_AUSENTE
+Não colocaram rampa nesse ponto;RAMPA_AUSENTE
+Por favor, olhem isso: tem lajotas quebradas na passagem.;CALCADA_DANIFICADA
+A faixa ta muito desgastada na rua mais movimentada do bairro.;TRAVESSIA_INADEQUADA
+Mesas e cadeiras ocupam a passagem dos pedestres. Isso já está assim faz tempo.;PASSAGEM_OBSTRUIDA
+Queria informar que não há acesso rebaixado na esquina na esquina da avenida principal.;RAMPA_AUSENTE
+Objetos deixados na calçada impedem a circulação perto do terminal.;PASSAGEM_OBSTRUIDA
+Queria informar que a rampa está mal construída e ficou torta na rua da praça.;RAMPA_INADEQUADA
+O acesso tem rampa estreita e piso irregular. Ninguém consegue passar direito por ali.;RAMPA_INADEQUADA
+A inclinação da rampa dificulta o acesso;RAMPA_INADEQUADA
+Queria informar que a rampa é íngreme e não tem espaço para manobrar perto do terminal.;RAMPA_INADEQUADA
+O semáforo de pedestres não tem sinal sonoro. Quem tem mobilidade reduzida sofre para passar.;TRAVESSIA_INADEQUADA
+Tem uma banca bloqueando a faixa livre;PASSAGEM_OBSTRUIDA
+Queria informar que não existe rampa pra subir na calçada nessa esquina ao lado do ponto de ônibus.;RAMPA_AUSENTE
+A travessia não tem proteção adequada. Quem tem mobilidade reduzida sofre pra passar.;TRAVESSIA_INADEQUADA
+A calçada danificada oferece risco de tropeço. Está difícil circular nesse trecho.;CALCADA_DANIFICADA
+A rampa de acesso está quebrada e precisa de reparo em frente aos prédios.;RAMPA_INADEQUADA
+Por favor, olhem isso: o meio-fio não tem rebaixo para facilitar a travessia.;RAMPA_AUSENTE
+Queria informar que a calçada não tem acesso para cadeira de rodas no caminho até a estação.;RAMPA_AUSENTE
+Queria informar que a inclinação da rampa dificulta o acesso em frente ao posto de saúde.;RAMPA_INADEQUADA
+Por favor, olhem isso: o cruzamento não tem uma travessia acessível.;TRAVESSIA_INADEQUADA
+A rampa foi feita com inclinação excessiva;RAMPA_INADEQUADA
+A rampa está mal construída e ficou torta. Precisa de atenção porque está complicado.;RAMPA_INADEQUADA
+A rampa é muito estreita para uma cadeira de rodas. Ninguém consegue passar direito por ali.;RAMPA_INADEQUADA
+Um trailer ocupa o espaço dos pedestres na rua mais movimentada do bairro.;PASSAGEM_OBSTRUIDA
+A guia não foi rebaixada e impede a passagem;RAMPA_AUSENTE
+Uma obra deixou materiais espalhados na calçada em frente aos prédios.;PASSAGEM_OBSTRUIDA
+O rebaixo é tão alto que ainda sobra um degrau. Isso já está assim faz tempo.;RAMPA_INADEQUADA
+Por favor, olhem isso: tem uma banca bloqueando a faixa livre.;PASSAGEM_OBSTRUIDA
+Queria informar que o acesso tem rampa estreita e piso irregular em frente aos prédios.;RAMPA_INADEQUADA
+Por favor, olhem isso: um trailer ocupa o espaço dos pedestres.;PASSAGEM_OBSTRUIDA
+Na travessia falta uma rampa ligando a rua à calçada;RAMPA_AUSENTE
+A passagem de pedestres está mal sinalizada;TRAVESSIA_INADEQUADA
+Tem um veículo na frente da rampa e ninguém passa;PASSAGEM_OBSTRUIDA
+Tem calçada dos dois lados, mas não tem rampa;RAMPA_AUSENTE
+Galhos caídos estão bloqueando o caminho. É um problema pra quem passa a pé.;PASSAGEM_OBSTRUIDA
+A pessoa precisa enfrentar o meio-fio porque não existe rampa em frente aos prédios.;RAMPA_AUSENTE
+A esquina não tem rebaixamento para cadeira de rodas em frente ao posto de saúde.;RAMPA_AUSENTE
+Uma obra deixou materiais espalhados na calçada;PASSAGEM_OBSTRUIDA
+O rebaixamento da guia ficou muito íngreme. Precisa de atenção porque está complicado.;RAMPA_INADEQUADA
+Queria informar que o semáforo de pedestres não tem sinal sonoro na rua mais movimentada do bairro.;TRAVESSIA_INADEQUADA
+A rampa é estreita e a cadeira não passa direito ao lado do ponto de ônibus.;RAMPA_INADEQUADA
+Mesas e cadeiras ocupam a passagem dos pedestres;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: a rampa tem uma lateral muito alta.;RAMPA_INADEQUADA
+Deixaram mercadorias espalhadas pelo passeio;PASSAGEM_OBSTRUIDA
+Tem entulho ocupando todo o caminho em frente ao posto de saúde.;PASSAGEM_OBSTRUIDA
+Queria informar que tem um poste no meio da passagem e não sobra espaço perto da entrada do mercado.;PASSAGEM_OBSTRUIDA
+Queria informar que o meio-fio não tem rebaixo para facilitar a travessia em frente aos prédios.;RAMPA_AUSENTE
+Queria informar que a passagem de pedestres está mal sinalizada perto da escola do bairro.;TRAVESSIA_INADEQUADA
+Tem partes do passeio afundadas no caminho até a estação.;CALCADA_DANIFICADA
+Queria informar que a faixa está longe do acesso da calçada em frente aos prédios.;TRAVESSIA_INADEQUADA
+Queria informar que deixaram mercadorias espalhadas pelo passeio em frente ao posto de saúde.;PASSAGEM_OBSTRUIDA
+O lixo acumulado impede as pessoas de passar. A situação atrapalha bastante quem passa.;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: a calçada não tem acesso para cadeira de rodas.;RAMPA_AUSENTE
+Queria informar que tem um degrau alto porque não fizeram rampa perto da escola do bairro.;RAMPA_AUSENTE
+Por favor, olhem isso: o rebaixo é tão alto que ainda sobra um degrau.;RAMPA_INADEQUADA
+Uma caçamba impede a circulação na calçada ao lado do ponto de ônibus.;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: a esquina não tem rebaixamento pra cadeira de rodas.;RAMPA_AUSENTE
+A calçada cedeu perto da entrada do prédio. Ninguém consegue passar direito por ali.;CALCADA_DANIFICADA
+Tem uma banca bloqueando a faixa livre perto da escola do bairro.;PASSAGEM_OBSTRUIDA
+Queria informar que as pedras do passeio estão levantadas perto da entrada do mercado.;CALCADA_DANIFICADA
+As pedras do passeio estão levantadas perto da entrada do mercado.;CALCADA_DANIFICADA
+O piso está solto e balança quando alguém pisa. Precisa de atenção porque está complicado.;CALCADA_DANIFICADA
+A pintura da faixa está desgastada e os motoristas não veem. Por favor, verifiquem essa situação.;TRAVESSIA_INADEQUADA
+A rampa tem uma inclinação perigosa para descer;RAMPA_INADEQUADA
+Um carro estacionado na calçada bloqueia a passagem;PASSAGEM_OBSTRUIDA
+Queria informar que objetos deixados na calçada impedem a circulação na esquina da avenida principal.;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: a rampa foi feita com inclinação excessiva.;RAMPA_INADEQUADA
+As pedras do passeio estão levantadas;CALCADA_DANIFICADA
+Queria informar que a calçada cedeu perto da entrada do prédio em frente aos prédios.;CALCADA_DANIFICADA
+Por favor, olhem isso: a rampa tem uma inclinação perigosa para descer.;RAMPA_INADEQUADA
+Queria informar que a rampa está desnivelada e causa trancos na cadeira na esquina da avenida principal.;RAMPA_INADEQUADA
+Uma moto está parada na calçada e fecha o caminho;PASSAGEM_OBSTRUIDA
+O cruzamento não tem uma travessia acessível;TRAVESSIA_INADEQUADA
+Queria informar que a entrada tem rampa, mas ela termina em degrau perto da escola do bairro.;RAMPA_INADEQUADA
+O chão está quebrando e soltando pedaços;CALCADA_DANIFICADA
+Não existe sinal pra pedestres nessa travessia;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: não existe rampa para subir na calçada nessa esquina.;RAMPA_AUSENTE
+Por favor, olhem isso: tem um desnível por causa do piso quebrado.;CALCADA_DANIFICADA
+A esquina não oferece acesso por rampa. É um problema para quem passa a pé.;RAMPA_AUSENTE
+Queria informar que um caminhão descarregando material bloqueou o passeio na rua da praça.;PASSAGEM_OBSTRUIDA
+Queria informar que não tem faixa de pedestres onde as pessoas atravessam na rua da praça.;TRAVESSIA_INADEQUADA
+Queria informar que a entrada da calçada está bloqueada por uma estrutura no caminho até a estação.;PASSAGEM_OBSTRUIDA
+Queria informar que tem partes do passeio afundadas no caminho até a estação.;CALCADA_DANIFICADA
+Tem uma árvore caída atravessada na passagem. O problema continua sem solução.;PASSAGEM_OBSTRUIDA
+A superfície da rampa é lisa e escorrega ao lado do ponto de ônibus.;RAMPA_INADEQUADA
+Tem rachaduras grandes no caminho de pedestres;CALCADA_DANIFICADA
+A entrada da calçada ta bloqueada por uma estrutura. A situação atrapalha bastante quem passa.;PASSAGEM_OBSTRUIDA
+Tem um buraco fundo no meio da calçada. Por favor, verifiquem essa situação.;CALCADA_DANIFICADA
+A faixa está longe do acesso da calçada na rua mais movimentada do bairro.;TRAVESSIA_INADEQUADA
+Falta rebaixamento perto do ponto de ônibus perto da entrada do mercado.;RAMPA_AUSENTE
+Queria informar que não existe passagem acessível entre rua e passeio em frente ao posto de saúde.;RAMPA_AUSENTE
+Tem um desnível por causa do piso quebrado na esquina da avenida principal.;CALCADA_DANIFICADA
+Queria informar que a rampa foi feita com inclinação excessiva no caminho até a estação.;RAMPA_INADEQUADA
+A faixa termina num canteiro e não dá continuidade. Está difícil circular nesse trecho.;TRAVESSIA_INADEQUADA
+Na travessia falta uma rampa ligando a rua à calçada perto da escola do bairro.;RAMPA_AUSENTE
+Por favor, olhem isso: não existe sinal para pedestres nessa travessia.;TRAVESSIA_INADEQUADA
+Tem um degrau alto porque não fizeram rampa;RAMPA_AUSENTE
+Falta uma rampa de acesso na entrada da rua;RAMPA_AUSENTE
+Por favor, olhem isso: não existe passagem acessível entre rua e passeio.;RAMPA_AUSENTE
+Por favor, olhem isso: o lixo acumulado impede as pessoas de passar.;PASSAGEM_OBSTRUIDA
+A esquina não tem rebaixamento para cadeira de rodas;RAMPA_AUSENTE
+Não tem faixa de pedestres onde as pessoas atravessam em frente ao posto de saúde.;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: a rampa está desnivelada e causa trancos na cadeira.;RAMPA_INADEQUADA
+Queria informar que o caminho está cheio de rachaduras ao lado do ponto de ônibus.;CALCADA_DANIFICADA
+Por favor, olhem isso: o piso da rampa é escorregadio quando chove.;RAMPA_INADEQUADA
+Por favor, olhem isso: um caminhão descarregando material bloqueou o passeio.;PASSAGEM_OBSTRUIDA
+Queria informar que tem um desnível por causa do piso quebrado em frente ao posto de saúde.;CALCADA_DANIFICADA
+Por favor, olhem isso: a pintura da faixa está desgastada e os motoristas não veem.;TRAVESSIA_INADEQUADA
+A entrada do prédio não possui rampa de acesso. Ninguém consegue passar direito por ali.;RAMPA_AUSENTE
+Queria informar que o piso está solto e balança quando alguém pisa na rua da praça.;CALCADA_DANIFICADA
+Por favor, olhem isso: a faixa de pedestres está apagada e quase não aparece.;TRAVESSIA_INADEQUADA
+Queria informar que não fizeram rebaixo na guia para atravessar perto da entrada do mercado.;RAMPA_AUSENTE
+A faixa está muito desgastada. Ninguém consegue passar direito por ali.;TRAVESSIA_INADEQUADA
+A entrada do prédio não possui rampa de acesso;RAMPA_AUSENTE
+A rampa está desnivelada e causa trancos na cadeira perto do terminal.;RAMPA_INADEQUADA
+O piso externo ta rachado e com partes faltando na rua mais movimentada do bairro.;CALCADA_DANIFICADA
+O meio-fio não tem rebaixo para facilitar a travessia;RAMPA_AUSENTE
+O acesso rebaixado não chega ao nível da rua perto da escola do bairro.;RAMPA_INADEQUADA
+A faixa está longe do acesso da calçada. Ninguém consegue passar direito por ali.;TRAVESSIA_INADEQUADA
+Queria informar que não colocaram rampa nesse ponto na rua da praça.;RAMPA_AUSENTE
+A rampa tem uma lateral muito alta. O problema continua sem solução.;RAMPA_INADEQUADA
+Por favor, olhem isso: o cruzamento não oferece condições seguras para atravessar.;TRAVESSIA_INADEQUADA
+Um tapume de obra bloqueia o acesso pela calçada;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: a rampa termina num degrau e não fica nivelada.;RAMPA_INADEQUADA
+A calçada não tem acesso pra cadeira de rodas. A situação atrapalha bastante quem passa.;RAMPA_AUSENTE
+A rampa existe, mas é inclinada demais para subir perto da escola do bairro.;RAMPA_INADEQUADA
+A travessia não tem proteção adequada;TRAVESSIA_INADEQUADA
+Não há rampa para entrar no estabelecimento. Isso já está assim faz tempo.;RAMPA_AUSENTE
+O lixo acumulado impede as pessoas de passar no caminho até a estação.;PASSAGEM_OBSTRUIDA
+Queria informar que o lixo acumulado impede as pessoas de passar no caminho até a estação.;PASSAGEM_OBSTRUIDA
+O local de travessia não tem marcação no asfalto na rua da praça.;TRAVESSIA_INADEQUADA
+Por favor, olhem isso: a rampa está mal construída e ficou torta.;RAMPA_INADEQUADA
+Por favor, olhem isso: a entrada do prédio não possui rampa de acesso.;RAMPA_AUSENTE
+O acesso tem rampa estreita e piso irregular;RAMPA_INADEQUADA
+Por favor, olhem isso: a faixa termina num canteiro e não dá continuidade.;TRAVESSIA_INADEQUADA
+O meio-fio não tem rebaixo para facilitar a travessia. Ninguém consegue passar direito por ali.;RAMPA_AUSENTE
+A calçada está quebrada e cheia de buracos perto da escola do bairro.;CALCADA_DANIFICADA
+Queria informar que o piso externo está rachado e com partes faltando em frente aos prédios.;CALCADA_DANIFICADA
+A calçada cedeu perto da entrada do prédio na rua mais movimentada do bairro.;CALCADA_DANIFICADA
+O caminho está cheio de rachaduras;CALCADA_DANIFICADA
+As lixeiras foram colocadas no meio do caminho;PASSAGEM_OBSTRUIDA
+A sinalização para atravessar está apagada;TRAVESSIA_INADEQUADA
+A entrada da calçada está bloqueada por uma estrutura;PASSAGEM_OBSTRUIDA
+Por favor, olhem isso: o piso externo está rachado e com partes faltando.;CALCADA_DANIFICADA
+O piso da rampa é escorregadio quando chove;RAMPA_INADEQUADA
+A calçada está desnivelada e é difícil andar nela. O problema continua sem solução.;CALCADA_DANIFICADA
+O rebaixamento ficou desalinhado com a faixa perto da entrada do mercado.;RAMPA_INADEQUADA
+Queria informar que a sinalização para atravessar está apagada ao lado do ponto de ônibus.;TRAVESSIA_INADEQUADA
+Queria informar que o rebaixamento ficou desalinhado com a faixa perto da entrada do mercado.;RAMPA_INADEQUADA
+Por favor, olhem isso: tem um degrau alto porque não fizeram rampa.;RAMPA_AUSENTE
+O sinal fecha antes de dar tempo de terminar a travessia;TRAVESSIA_INADEQUADA
+A calçada ficou irregular depois de uma obra perto do terminal.;CALCADA_DANIFICADA
+Por favor, olhem isso: uma obra deixou materiais espalhados na calçada.;PASSAGEM_OBSTRUIDA
+O local de travessia não tem marcação no asfalto;TRAVESSIA_INADEQUADA
+Tem partes do passeio afundadas;CALCADA_DANIFICADA
+Não fizeram rebaixo na guia para atravessar. Está difícil circular nesse trecho.;RAMPA_AUSENTE
+Falta uma rampa de acesso na entrada da rua na esquina da avenida principal.;RAMPA_AUSENTE
+Por favor, olhem isso: tem um poste no meio da passagem e não sobra espaço.;PASSAGEM_OBSTRUIDA
+Tem um desnível por causa do piso quebrado. O problema continua sem solução.;CALCADA_DANIFICADA
+A entrada tem rampa, mas ela termina em degrau em frente aos prédios.;RAMPA_INADEQUADA
+Queria informar que o piso da rampa é escorregadio quando chove perto do terminal.;RAMPA_INADEQUADA
+Por favor, olhem isso: tem rachaduras grandes no caminho de pedestres.;CALCADA_DANIFICADA
+Tem partes do passeio afundadas. A situação atrapalha bastante quem passa.;CALCADA_DANIFICADA
+Por favor, olhem isso: a travessia não tem sinalização visível.;TRAVESSIA_INADEQUADA
+Não colocaram rampa nesse ponto. Precisa de atenção porque está complicado.;RAMPA_AUSENTE
+Queria informar que tem um buraco fundo no meio da calçada perto da escola do bairro.;CALCADA_DANIFICADA
+Tem rachaduras grandes no caminho de pedestres ao lado do ponto de ônibus.;CALCADA_DANIFICADA
+Por favor, olhem isso: o concreto da calçada está esfarelando.;CALCADA_DANIFICADA
+O cruzamento não oferece condições seguras pra atravessar. A situação atrapalha bastante quem passa.;TRAVESSIA_INADEQUADA
+A sinalização para atravessar está apagada. Está desse jeito todos os dias.;TRAVESSIA_INADEQUADA
+O rebaixo é tão alto que ainda sobra um degrau perto do terminal.;RAMPA_INADEQUADA
+A faixa de pedestres está incompleta no cruzamento. O problema continua sem solução.;TRAVESSIA_INADEQUADA
+A rampa ta mal construída e ficou torta em frente ao posto de saúde.;RAMPA_INADEQUADA
+Deixaram mercadorias espalhadas pelo passeio. O problema continua sem solução.;PASSAGEM_OBSTRUIDA
+Tem uma árvore caída atravessada na passagem na esquina da avenida principal.;PASSAGEM_OBSTRUIDA
+O piso está solto e balança quando alguém pisa em frente ao posto de saúde.;CALCADA_DANIFICADA
+Por favor, olhem isso: tem entulho ocupando todo o caminho.;PASSAGEM_OBSTRUIDA
+A calçada é alta e não tem acesso nivelado. Quem tem mobilidade reduzida sofre pra passar.;RAMPA_AUSENTE
+A calçada ta quebrada e cheia de buracos;CALCADA_DANIFICADA
+O acesso tem rampa estreita e piso irregular na rua mais movimentada do bairro.;RAMPA_INADEQUADA
+O chão está quebrando e soltando pedaços. É um problema para quem passa a pé.;CALCADA_DANIFICADA
+Queria informar que não há rampa para entrar no estabelecimento na esquina da avenida principal.;RAMPA_AUSENTE
+A rampa tem uma lateral muito alta;RAMPA_INADEQUADA
+Mesas e cadeiras ocupam a passagem dos pedestres perto do terminal.;PASSAGEM_OBSTRUIDA
+O piso está solto e balança quando alguém pisa;CALCADA_DANIFICADA
+Por favor, olhem isso: na travessia falta uma rampa ligando a rua à calçada.;RAMPA_AUSENTE
+Na travessia falta uma rampa ligando a rua à calçada. Está desse jeito todos os dias.;RAMPA_AUSENTE
+O tempo do sinal é curto demais para atravessar;TRAVESSIA_INADEQUADA
+Tem um buraco fundo no meio da calçada;CALCADA_DANIFICADA
+Não existe sinal para pedestres nessa travessia. Isso já está assim faz tempo.;TRAVESSIA_INADEQUADA
+Queria informar que a entrada do prédio não possui rampa de acesso em frente aos prédios.;RAMPA_AUSENTE
+Queria informar que tem uma árvore caída atravessada na passagem em frente ao posto de saúde.;PASSAGEM_OBSTRUIDA
+A inclinação da rampa dificulta o acesso. O problema continua sem solução.;RAMPA_INADEQUADA
+Tem um veículo na frente da rampa e ninguém passa. Por favor, verifiquem essa situação.;PASSAGEM_OBSTRUIDA
+Tem entulho ocupando todo o caminho;PASSAGEM_OBSTRUIDA
+Uma moto está parada na calçada e fecha o caminho. Ninguém consegue passar direito por ali.;PASSAGEM_OBSTRUIDA
+A faixa está longe do acesso da calçada;TRAVESSIA_INADEQUADA
+A guia não foi rebaixada e impede a passagem. A situação atrapalha bastante quem passa.;RAMPA_AUSENTE
+Por favor, olhem isso: não colocaram rampa nesse ponto.;RAMPA_AUSENTE
+Queria informar que a calçada está em péssimo estado de conservação no caminho até a estação.;CALCADA_DANIFICADA
+Não existe passagem acessível entre rua e passeio na esquina da avenida principal.;RAMPA_AUSENTE
+O revestimento se soltou em vários pontos;CALCADA_DANIFICADA
+O acesso rebaixado não chega ao nível da rua. Está desse jeito todos os dias.;RAMPA_INADEQUADA
+A rampa de acesso está quebrada e precisa de reparo. Por favor, verifiquem essa situação.;RAMPA_INADEQUADA
